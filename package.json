@@ -1,0 +1,24 @@
+{
+  "name": "dex-crawler",
+  "version": "1.0.0",
+  "description": "Monitor prices of tokens in different DEXs.",
+  "homepage": "https://github.com/cjxe/dex-crawler#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.12",
+    "web3": "^1.5.2",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.1"
+  }
+}
