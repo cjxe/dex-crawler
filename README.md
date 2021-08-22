@@ -43,12 +43,12 @@ Steps:
 ## TODO
 
 - [X] Get LP token address using two tokens.
-- [X] Calculate the **rough** price of a token in DAI. *(i.e., 1 WETH = 3255.124 DAI)*
-- [ ] Calculate the **correct** price of a token in DAI. *(Curved calculations)*
+- [X] <strike>Calculate the **rough** price of a token in DAI. *(i.e., 1 WETH = 3255.124 DAI)*</strike>
+- [X] Calculate the **correct** price of a token in DAI. <strike>*(Curved calculations)*</strike> *(**NEW**: Using the router contracts)*
 - [ ] Save every pulled ABI/contract into a file. *(Think about the DB structure)*
-- [ ] Refresh the price when a new block is created.
+- [X] Refresh the price when a new block is created.
 - [X] Support for Uniswap. *(Ethereum network)*
-- [ ] Support for Sushiswap. *(Ethereum network)*
+- [X] Support for Sushiswap. *(Ethereum network)*
 - [ ] Support for Curve. *(Ethereum network)*
 - [ ] Support for 1inch. *(Ethereum network)*
 - [ ] Support for cryptodefiswap. *(Ethereum network)*
