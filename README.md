@@ -1,9 +1,10 @@
 # <h1 align="center">DEX Crawler 🕷️</h1>
 
 <div align="center">
-  <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/cjxe/dex-crawler/main?label=last%20update">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/cjxe/dex-crawler?style=social">
 </div>
+
+## <h2 align="center">⚠️ THIS CODE IS NO LONGER BEING MAINTAINED! ⚠️</h2>
 
 ## Index
 
@@ -33,12 +34,12 @@ Steps:
 
 ## Contribution
 
-- Found a bug or something is not working right? Submit a new issue [here](https://github.com/cjxe/dex-crawler/issues).
+- Found a bug or something is not working right? Submit a new issue [on the "Issues" tab](https://github.com/cjxe/dex-crawler/issues).
 
 - Would you like to contribute to the code? 
 
-1. Check the code if it applies to `.eslintrc.js` rules.
-2. Make a new PR request [here](https://github.com/cjxe/cjxe/pulls).
+1. Check the code that it applies to `.eslintrc.js` rules.
+2. Make a new pull request.
 
 ## TODO
 
